@@ -41,7 +41,7 @@ This project uses the **Gallbladder Cancer Ultrasound (GBCU)** dataset:
 https://gbc-iitd.github.io/data/gbcu
 
 The dataset is not included in this repository. 
-A google drive link containing it has been sent to my assessor and supervisor.
+A one drive link containing it has been sent to my assessor and supervisor.
 
 After downloading the dataset, place the following in your project root:
 
